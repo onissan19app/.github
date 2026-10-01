@@ -1,7 +1,9 @@
 # Onissan19app
 
-Nous concevons des produits logiciels pour le web, le SaaS et le mobile, en partant des besoins réels des utilisateurs.
+### Des logiciels conçus à partir des usages.
 
-Notre approche privilégie des objectifs clairs, des changements ciblés, une qualité vérifiable et une documentation utile. Les règles propres à chaque produit sont publiées dans son dépôt.
+Nous développons des applications web, mobiles et SaaS.
 
-Les projets et leur avancement seront présentés ici au fur et à mesure.
+Chaque projet commence par comprendre un problème : qui le rencontre, dans quel contexte et ce qui améliorerait vraiment la situation. Nous définissons le périmètre et les critères de réussite avant de développer.
+
+Le travail avance par étapes courtes. Chaque évolution est testée, relue et documentée pour que le produit reste fiable et puisse évoluer.
