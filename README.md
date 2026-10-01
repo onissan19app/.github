@@ -1,7 +1,7 @@
-# Standards publics de l’organisation
+# Onissan19app — fichiers communs
 
-Ce dépôt fournit les fichiers publics communs de l’organisation GitHub `onissan19app` : consignes de contribution, politique de sécurité et modèles de demandes.
+Ce dépôt rassemble les repères publics utilisés par défaut dans les dépôts de l’organisation : contribution, sécurité, support et modèles d’issues et de pull requests.
 
-Ces documents donnent un cadre commun. Chaque projet peut préciser ses propres commandes, critères d’acceptation et règles techniques dans son dépôt. Les procédures internes détaillées et les informations confidentielles ne sont pas publiées ici.
+Chaque projet peut préciser ses propres outils, commandes et exigences. Ses consignes complètent les règles communes lorsqu’elles dépendent de sa technologie ou de son usage.
 
-Le profil public de l’organisation se trouve dans [profile/README.md](profile/README.md).
+Ce dépôt est public. Il ne contient ni secrets ni procédures internes.
