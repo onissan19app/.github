@@ -1,0 +1,57 @@
+name: Tâche de développement
+description: Définir un changement avec un périmètre et des critères vérifiables.
+title: "[Tâche] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Compléter le ticket avant de commencer. Ne pas inclure de secret ni de donnée sensible.
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objectif
+      description: Quel problème ce changement résout-il ? Quel résultat est attendu ?
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Périmètre
+      description: Travail demandé, éléments hors périmètre et fichiers ou composants concernés.
+    validations:
+      required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: Spécifications et dépendances
+      description: Documents de référence, contrats à respecter et tickets préalables. Indiquer si aucune dépendance ne s’applique.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Critères d’acceptation
+      description: Comportements observables, cas d’erreur et limites à couvrir.
+      placeholder: |
+        - [ ] ...
+    validations:
+      required: true
+  - type: textarea
+    id: verification
+    attributes:
+      label: Vérifications prévues
+      description: Commandes exactes, environnement, scénarios et preuves attendues. Signaler les vérifications qui restent à définir.
+    validations:
+      required: true
+  - type: textarea
+    id: documentation
+    attributes:
+      label: Documentation et risques
+      description: Documentation à modifier, compatibilité, sécurité ou migrations concernées. Indiquer si aucun point ne s’applique.
+    validations:
+      required: true
+  - type: textarea
+    id: questions
+    attributes:
+      label: Décisions manquantes
+      description: Une tâche reste à préparer tant qu’une décision nécessaire manque.
