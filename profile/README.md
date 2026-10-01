@@ -1,9 +1,5 @@
 # Onissan19app
 
-### Des logiciels conçus à partir des usages.
+Onissan19app regroupe nos projets d’applications web, mobiles et SaaS.
 
-Nous développons des applications web, mobiles et SaaS.
-
-Chaque projet commence par comprendre un problème : qui le rencontre, dans quel contexte et ce qui améliorerait vraiment la situation. Nous définissons le périmètre et les critères de réussite avant de développer.
-
-Le travail avance par étapes courtes. Chaque évolution est testée, relue et documentée pour que le produit reste fiable et puisse évoluer.
+Nous définissons le besoin et le périmètre de chaque projet avant de coder. Le développement est découpé en tâches précises, avec des critères d’acceptation. Les tests, la revue de code et la documentation font partie du travail prévu pour chaque changement.
