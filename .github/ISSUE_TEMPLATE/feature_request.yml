@@ -1,0 +1,35 @@
+name: Proposer une amélioration
+description: Décrire un besoin utilisateur et le résultat souhaité
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: Besoin ou problème
+      description: Qui rencontre ce problème et dans quelle situation ?
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Résultat attendu
+      description: Que devrait pouvoir faire l’utilisateur une fois le problème résolu ?
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Critères d’acceptation
+      description: Comment vérifier que le besoin est satisfait ?
+      placeholder: |
+        - Étant donné …
+        - Quand …
+        - Alors …
+    validations:
+      required: false
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives ou contraintes
+      description: Solutions envisagées, contraintes et éléments hors périmètre.
+    validations:
+      required: false
