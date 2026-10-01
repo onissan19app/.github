@@ -1,7 +1,7 @@
-# Onissan19app — fichiers communs
+# Fichiers communs d’Onissan19app
 
-Ce dépôt rassemble les repères publics utilisés par défaut dans les dépôts de l’organisation : contribution, sécurité, support et modèles d’issues et de pull requests.
+Ce dépôt contient les consignes de contribution, la politique de sécurité, l’aide et les modèles d’issues et de pull requests de l’organisation.
 
-Chaque projet peut préciser ses propres outils, commandes et exigences. Ses consignes complètent les règles communes lorsqu’elles dépendent de sa technologie ou de son usage.
+Chaque projet peut compléter ces fichiers avec ses propres outils et commandes. GitHub utilise les fichiers communs par défaut lorsque ce dépôt est public et que le projet ne dispose pas de fichiers équivalents.
 
-Ce dépôt est public. Il ne contient ni secrets ni procédures internes.
+Le [profil de l’organisation](profile/README.md) présente notre activité. Les procédures internes détaillées doivent être conservées dans un dépôt privé.
