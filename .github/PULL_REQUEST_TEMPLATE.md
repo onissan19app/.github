@@ -1,21 +1,33 @@
-## Résumé
+## Objectif et ticket
 
-<!-- Quel problème utilisateur ou technique cette PR résout-elle ? -->
+<!-- Lien vers l’issue et résultat attendu. -->
 
-## Changement apporté
+## Changements
 
-<!-- Décris le résultat et les choix importants. -->
+<!-- Périmètre réalisé, fichiers concernés et décisions appliquées. -->
+
+## Critères d’acceptation
+
+<!-- Pour chaque critère du ticket, indiquer le résultat et sa preuve. -->
 
 ## Vérifications
 
-- [ ] Tests automatisés exécutés ou raison de leur absence indiquée
-- [ ] Formatage, analyse statique et build vérifiés selon le dépôt
-- [ ] Documentation mise à jour si nécessaire
+| Contrôle | Commande ou scénario | Résultat | Preuve et commit vérifié |
+|---|---|---|---|
+| | | Réussi / échoué / non exécuté | |
 
-## Risques et points à examiner
+<!-- Expliquer chaque contrôle non exécuté. Ajouter les captures utiles pour un changement d’interface. -->
 
-<!-- Compatibilité, sécurité, données, migration ou limites éventuelles. -->
+## Risques et documentation
 
-## Référence
+<!-- Compatibilité, sécurité, migrations, limites et documentation mise à jour. -->
 
-<!-- Ferme ou relie l’issue concernée, par exemple : Fixes #123 -->
+## Avant intégration
+
+- [ ] Le périmètre correspond au ticket
+- [ ] Les critères d’acceptation sont satisfaits et leurs preuves sont accessibles
+- [ ] Les contrôles requis ont été exécutés sur le changement proposé
+- [ ] Les modifications de documentation nécessaires sont incluses
+- [ ] Les points restant à traiter sont indiqués
+
+<!-- Le relecteur consigne son verdict dans une revue GitHub. Cocher ces cases ne remplace pas les contrôles et les approbations requis par le dépôt. -->
